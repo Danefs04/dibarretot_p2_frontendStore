@@ -252,6 +252,7 @@ Se utiliza doble guion medio para Modificaor */
     border-style: solid;
     */
 
+    width: 100%;
     border: 1rem solid var(--primarioOscuro);
     background-color: transparent;
     color: var(--blanco);
